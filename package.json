@@ -1,0 +1,21 @@
+{
+  "name": "cy-hands-on-cypress-split",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate the usage of the cypress-split plugin to run tests in parallel.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress-io",
+    "talking-about-testing",
+    "cypress-split",
+    "cypress-parallel"
+  ],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
