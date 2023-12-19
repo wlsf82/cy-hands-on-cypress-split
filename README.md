@@ -1,5 +1,7 @@
 # cy-hands-on-cypress-split
 
+[![CI](https://github.com/wlsf82/cy-hands-on-cypress-split/actions/workflows/ci.yml/badge.svg)](https://github.com/wlsf82/cy-hands-on-cypress-split/actions)
+
 Sample project to demonstrate the usage of the [cypress-split](https://github.com/bahmutov/cypress-split) plugin to run tests in parallel.
 
 ## Pre-requirements
